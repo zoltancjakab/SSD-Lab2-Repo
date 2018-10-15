@@ -1,0 +1,88 @@
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojAssemblyReference.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CopyComplete
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojAssemblyReference.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CopyComplete
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOneB.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\UnitTests\bin\Debug\netcoreapp2.0\LabOne.pdb

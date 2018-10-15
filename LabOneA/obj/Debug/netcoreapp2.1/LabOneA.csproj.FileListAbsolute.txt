@@ -1,0 +1,6 @@
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.csprojAssemblyReference.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.csproj.CoreCompileInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.RazorAssemblyInfo.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.RazorAssemblyInfo.cs
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.AssemblyInfoInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOneA\obj\Debug\netcoreapp2.1\LabOneA.AssemblyInfo.cs

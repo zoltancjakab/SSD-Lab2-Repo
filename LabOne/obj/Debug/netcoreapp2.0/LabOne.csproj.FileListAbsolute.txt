@@ -1,0 +1,66 @@
+C:\Users\000373180\source\repos\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\000373180\source\repos\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\000373180\source\repos\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\000373180\source\repos\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojResolveAssemblyReference.cache
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\000373180\source\repos\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\source\repos\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojAssemblyReference.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojAssemblyReference.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\Zolta\Downloads\Lab1 B\Lab1\Lab1\20181709 Lab1A\Lab1\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.deps.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.runtimeconfig.dev.json
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\bin\Debug\netcoreapp2.0\LabOne.pdb
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csprojResolveAssemblyReference.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.AssemblyInfo.cs
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.dll
+C:\Users\000373180\Downloads\Lab1 Zoltan, 000373180\Lab1\LabOne\obj\Debug\netcoreapp2.0\LabOne.pdb
